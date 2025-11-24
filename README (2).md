@@ -3,7 +3,7 @@
 ## **📌 Project Title**
 
 **Word Count Analyzer (Python Text Processing Tool)**\
-*By: Alok Ranjan Nanda \| Reg No: 25BAI10778 \| Branch: CSE AIML*
+*By: Prince Kumar Rai \| Reg No: 25BAI11445 \| Branch: CSE AIML*
 
 ## **📖 Overview**
 
@@ -113,8 +113,8 @@ preprocessing**, and **Python learners**.
 
 ## **🧑‍💻 Author**
 
-**Name:** *Alok Ranjan Nanda*\
-**Reg No:** *25BAI10778*\
+**Name:** *Prince Kumar Rai*\
+**Reg No:** *25BAI11445*\
 **Branch:** *CSE AIML*
 
 ## **📜 License**
